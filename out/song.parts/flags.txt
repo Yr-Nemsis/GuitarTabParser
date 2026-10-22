@@ -1,0 +1,19 @@
+1:26.5–1:29.5: no tab staff detected; frames skipped
+section-01 x 401–511 (on screen ~0:00.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 1857–2219 (on screen ~0:00.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 2620–2711 (on screen ~0:00.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 3729–3810 (on screen ~0:16.5): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 4085–4437 (on screen ~0:16.5): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 4838–4922 (on screen ~0:17.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 6310–6658 (on screen ~0:29.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 7059–7145 (on screen ~0:29.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 8543–8876 (on screen ~0:42.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 9277–9371 (on screen ~0:42.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 11071–11128 (on screen ~0:55.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 12563–13581 (on screen ~1:09.0): background could not be fully separated from the notation; strokes there may be faint — compare with the video
+section-01 x 0–2219 (on screen ~0:00.0): seen at only 1 steady score position(s); background suppression is weaker here
+section-01 x 3366–4437 (on screen ~0:16.5): seen at only 1 steady score position(s); background suppression is weaker here
+section-01 x 5585–6658 (on screen ~0:29.0): seen at only 1 steady score position(s); background suppression is weaker here
+section-01 x 7803–8876 (on screen ~0:42.0): seen at only 1 steady score position(s); background suppression is weaker here
+section-01 x 10024–10670 (on screen ~0:55.0): seen at only 1 steady score position(s); background suppression is weaker here
+section-01 x 12242–14036 (on screen ~1:09.0): seen at only 1 steady score position(s); background suppression is weaker here
